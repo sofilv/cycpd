@@ -42,7 +42,7 @@ class expectation_maximization_registration(object):
         self,
         X,
         Y,
-        max_iterations=500,
+        max_iterations=5,
         tolerance=1e-5,
         w=0.0,
         verbose=True,
